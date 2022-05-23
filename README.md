@@ -1,20 +1,6 @@
 # webshell
-基于web的Linux远程访问系统，Linux编程大作业
----
-layout: post
-title: webshell
-slug: webshell
-date: 2022-05-24 01:11
-status: publish
-author: 华仔仔
-categories: 
-  - Linux
-tags: 
-  - Linux
-  - cloudshell
-excerpt: webshell
 
----
+基于web的Linux远程访问系统，Linux编程大作业
 
 ## 写在前面
 
