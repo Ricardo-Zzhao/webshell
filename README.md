@@ -142,7 +142,7 @@ server(options, (req, res) => {
 
 **2)一些产商无法使用iframe嵌入的问题**
 
-阿里云的cloudshell使用iframe的时候就会出现xxx拒绝连接，网址：https://shell.aliyun.com/，尝试代码如下
+阿里云的cloudshell使用iframe的时候就会出现xxx拒绝连接，网址：https://shell.aliyun.com/ 尝试代码如下
 
 ```
 <iframe id="iframe" name="iframe" width="100%" height="100%" frameborder="0" src="https://shell.aliyun.com/" style="height:900px; width:100%;"></iframe>
