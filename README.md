@@ -65,7 +65,8 @@
 
 ![](./images/05246.png)
 
-这里已经将webshell部署在了github上，使用github pages静态托管，可以通过在浏览器输入https://mblog.ricardoz.site/webshell/来访问，做到这里可以看到大作业到此算是完成了大部分，但是凡是都不是完美的，下面就来说说问题吧。
+这里已经将webshell部署在了github上，使用github pages静态托管，可以通过在浏览器输入https://mblog.ricardoz.site/webshell/
+来访问，做到这里可以看到大作业到此算是完成了大部分，但是凡是都不是完美的，下面就来说说问题吧。
 
 
 
